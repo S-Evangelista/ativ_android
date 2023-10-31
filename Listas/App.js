@@ -17,8 +17,9 @@ const styles = StyleSheet.create({
       borderRadius: '10px',
       fontSize: '70px',
       fontFamily:'Poppins',
-      color: 'black',
+      color: 'white',
       margin: '60px',
+      text-stroke:'1px',
     },
 
   },
