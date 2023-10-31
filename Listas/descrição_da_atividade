@@ -1,1 +1,9 @@
-LISTA NA ATIVIDADE - conferir
+LISTA NA ATIVIDADE - 
+
+Deve ser desenvolvido um aplicativo mobile, utilizando react native para fazer gestão de listas,
+No aplicativo deve ser possível cadastrar uma listas,
+Dentro dessa lista deve ser possível cadastrar itens,
+Deve ser possível editar o nome de uma lista ou excluir uma lista,
+Deve ser possível editar o nome de um item da lista ou excluir um item da lista
+As listas devem ser sempre ordenada por data de última alteração, a data de alteração deve ser atualizada quando a lista tiver alguma alteração em seu nome, ou em algum dos itens presentes na lista.
+Os itens da lista devem ser ordenados pela data de alteração, a data de alteração deve mudar quando um item for inserido ou atualizado.
