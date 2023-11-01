@@ -13,13 +13,13 @@ export default function App() {
 const styles = StyleSheet.create({
     titulo: {
       backgroundColor: '#80FEFF',
-      padding: '12px',
+      padding: '15px',
       borderRadius: '10px',
       fontSize: '70px',
       fontFamily:'Poppins',
       color: 'white',
       margin: '60px',
-      text-stroke:'1px',
+      textDecorationStyle: 'stroke',
     },
 
   },
